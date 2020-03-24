@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "modularization_pp_activity1/1.0.0": {
+        "runtime": {
+          "modularization_pp_activity1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "modularization_pp_activity1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
