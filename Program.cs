@@ -6,7 +6,13 @@ namespace modularization_pp_activity1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Declaring Global Variables
+            string[] groceryListItems = {"Nuts", "Fish", "Lentils", "Whole Grains", "Beans", "Olive Oil", "Eggs", "Yogurt"};
+            
+            public string userItem()
+            {
+                
+            }
         }
     }
 }
